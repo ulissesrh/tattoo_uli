@@ -1,0 +1,14 @@
+body{
+    background-color: #3A343F;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card{
+    padding-top: 50px;
+    width: 271px;
+}
